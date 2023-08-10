@@ -1,4 +1,5 @@
 # Day 1
+<br>
 
 [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/l_ender-s-cataclysm)
 
@@ -15,9 +16,10 @@
 [Better Nether](https://www.curseforge.com/minecraft/mc-mods/betternether)
 
 [Better End](https://www.curseforge.com/minecraft/mc-mods/betterend)
-
+<br>
 
 # Day 2
+<br>
 
 [Vertical Slabs](https://www.curseforge.com/minecraft/mc-mods/vertical-slabs-compat)
 
@@ -49,9 +51,10 @@
 
 [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
 
-
+<br>
 
 ## Optifine replacements, if fabric/quilt:
+<br>
 
 [Iris (shaders)](https://modrinth.com/mod/iris)
 
@@ -62,8 +65,9 @@
 [Mod Menu](https://modrinth.com/mod/modmenu)
 
 
-
+<hr>
 Fixes for the fixes:
+<br>
 
 [Better Sodium GUI](https://modrinth.com/mod/reeses-sodium-options)
 
@@ -71,13 +75,14 @@ Fixes for the fixes:
 
 [Sodium's biome blending bug fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix)
 
-
+<hr>
 
 The "fuck minecraft" section:
+<br>
 
 [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 
-
+<hr>
 
 Optimization mods:
 
@@ -105,7 +110,7 @@ Optimization mods:
 
 [Better Ping Mod](https://modrinth.com/mod/better-ping-display-fabric)
 
-
+<hr>
 Resource packs:
 
 [Animated Textures](https://www.curseforge.com/minecraft/texture-packs/animated-textures-0-1)
@@ -116,9 +121,10 @@ Resource packs:
 # Day 3
 
 [Cosmetica](https://modrinth.com/mod/cosmetica)
+
 [Stellarity](https://modrinth.com/datapack/stellarity)
 
-
+<br><br><hr>
 # Temp section for mod-loaders
 
 
