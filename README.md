@@ -50,7 +50,8 @@
 [Sleep Tight](https://www.curseforge.com/minecraft/mc-mods/sleep-tight)
 
 
-#### Optifine replacements, if fabric/quilt:
+
+## Optifine replacements, if fabric/quilt:
 
 [Iris (shaders)](https://modrinth.com/mod/iris)
 
@@ -59,6 +60,7 @@
 [Continuity](https://modrinth.com/mod/continuity) (connected blocks)
 
 [Mod Menu](https://modrinth.com/mod/modmenu)
+
 
 
 Fixes for the fixes:
@@ -70,9 +72,11 @@ Fixes for the fixes:
 [Sodium's biome blending bug fix](https://modrinth.com/mod/unofficial-sodium-biome-blending-fix)
 
 
+
 The "fuck minecraft" section:
 
 [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+
 
 
 Optimization mods:
