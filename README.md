@@ -124,6 +124,36 @@ Resource packs:
 
 [Stellarity](https://modrinth.com/datapack/stellarity)
 
+# Day 4
+[Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
+
+[Dash Loader](https://modrinth.com/mod/dashloader)
+
+[Carpeted Stairs and Slabs](https://modrinth.com/mod/carpeted-stairs)
+
+[Double Slabs](https://www.curseforge.com/minecraft/mc-mods/double-slabs)
+
+[Connected Chains](https://modrinth.com/mod/connectible_chains)
+
+[Diagonal Fences](https://modrinth.com/mod/diagonal-fences)
+
+[Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
+
+[Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+
+[AmbientSounds](https://modrinth.com/mod/ambientsounds)
+
+[Effortless Building](https://www.curseforge.com/minecraft/mc-mods/effortless-building)
+
+[Item Swapper](https://modrinth.com/plugin/itemswapper)
+
+[First Person Model](https://modrinth.com/mod/first-person-model)
+
+[Trainguy's Animation Overhaul](https://github.com/Trainguy9512/trainguys-animation-overhaul)
+
+[Nullscape](https://modrinth.com/mod/nullscape)
+
+
 <br><br><hr>
 # Temp section for mod-loaders
 
