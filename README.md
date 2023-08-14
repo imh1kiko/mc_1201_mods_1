@@ -153,6 +153,13 @@ Resource packs:
 
 [Nullscape](https://modrinth.com/mod/nullscape)
 
+# Day 5
+[Player Companions](https://www.curseforge.com/minecraft/mc-mods/player-companions)
+
+[ChatImage](https://www.curseforge.com/minecraft/mc-mods/chatimage)
+
+
+
 
 <br><br><hr>
 # Temp section for mod-loaders
