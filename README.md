@@ -158,6 +158,20 @@ Resource packs:
 
 [ChatImage](https://www.curseforge.com/minecraft/mc-mods/chatimage)
 
+[Plasmo Voice](https://www.curseforge.com/minecraft/mc-mods/plasmo-voice)
+
+[Goodall](https://modrinth.com/mod/goodall/gallery)
+
+[E4mc](https://modrinth.com/mod/e4mc)
+
+[Cull Leaves](https://modrinth.com/mod/cull-leaves)
+
+[Supplementaries](https://modrinth.com/mod/supplementaries)
+
+[EMI](https://modrinth.com/mod/emi)
+
+[Bubbles Go Pop](https://modrinth.com/mod/make_bubbles_pop)
+
 
 
 
